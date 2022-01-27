@@ -1,0 +1,15 @@
+Faire un FORK (ou clone, si aucun compte GitHub) depuis le répertoire suivant:
+
+https://github.com/cboucher-cghy/Git-Exercise.git
+
+Corriger le terme "Folowing" par "Following". C'est à vous de trouver où est le problème.
+
+Committer le changement
+
+Effectuer un "Push" du changement sur son propre répertoire/clone
+
+Cloner le repertoire ailleurs sur l'ordinateur
+
+Vérifier que la modification est présente.
+
+Supprimer le Fork/Clone sur son GIT
