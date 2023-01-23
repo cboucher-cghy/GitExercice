@@ -1,7 +1,5 @@
 Faire un FORK (ou clone, si aucun compte GitHub) depuis le répertoire suivant:
 
-https://github.com/cboucher-cghy/Git-Exercise.git
-
 Corriger le terme "Folowing" par "Following". C'est à vous de trouver où est le problème.
 
 Committer le changement
